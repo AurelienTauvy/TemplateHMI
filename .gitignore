@@ -56,3 +56,9 @@ compile_commands.json
 
 #Perso
 *.qtc_clangd
+
+
+QtProject/TemplateHMI/qml_qmlcache.qrc
+
+QtProject/TemplateHMI/release/
+QtProject/TemplateHMI/debug/
